@@ -1,0 +1,15 @@
+# IDE settings
+.idea/
+
+# Obsidian workspace settings
+.obsidian/
+
+# Compiled C programs
+*.o
+*.out
+*.exe
+
+# Environment/secrets
+.env
+
+notes/C/myfirstprogram
